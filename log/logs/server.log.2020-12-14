@@ -1,0 +1,65 @@
+2020-12-14 00:18:18,247 DEBUG server.py Вызвана функция config_load с параметрами ((), {}). Из модуля __main__
+2020-12-14 00:18:18,250 DEBUG server.py Аргументы успешно загружены.
+2020-12-14 00:18:18,250 DEBUG server.py Вызвана функция argument_parser с параметрами (('7777', ''), {}). Из модуля __main__
+2020-12-14 00:20:04,871 DEBUG server.py Вызвана функция config_load с параметрами ((), {}). Из модуля __main__
+2020-12-14 00:20:04,872 DEBUG server.py Аргументы успешно загружены.
+2020-12-14 00:20:04,872 DEBUG server.py Вызвана функция argument_parser с параметрами (('7777', ''), {}). Из модуля __main__
+2020-12-14 00:24:51,476 DEBUG server.py Вызвана функция config_load с параметрами ((), {}). Из модуля __main__
+2020-12-14 00:24:51,479 DEBUG server.py Аргументы успешно загружены.
+2020-12-14 00:24:51,479 DEBUG server.py Вызвана функция argument_parser с параметрами (('7777', ''), {}). Из модуля __main__
+2020-12-14 00:28:57,430 DEBUG server.py Вызвана функция config_load с параметрами ((), {}). Из модуля __main__
+2020-12-14 00:28:57,434 DEBUG server.py Аргументы успешно загружены.
+2020-12-14 00:28:57,434 DEBUG server.py Вызвана функция argument_parser с параметрами (('7777', ''), {}). Из модуля __main__
+2020-12-14 00:30:41,659 DEBUG server.py Вызвана функция config_load с параметрами ((), {}). Из модуля __main__
+2020-12-14 00:30:41,660 DEBUG server.py Аргументы успешно загружены.
+2020-12-14 00:30:41,660 DEBUG server.py Вызвана функция argument_parser с параметрами (('7777', ''), {}). Из модуля __main__
+2020-12-14 00:32:35,507 DEBUG server.py Вызвана функция config_load с параметрами ((), {}). Из модуля __main__
+2020-12-14 00:32:35,509 DEBUG server.py Аргументы успешно загружены.
+2020-12-14 00:32:35,509 DEBUG server.py Вызвана функция argument_parser с параметрами (('7777', ''), {}). Из модуля __main__
+2020-12-14 00:32:35,727 INFO center.py Запущен сервер, порт для подключений: , адрес с которого принимаются подключения: 7777. Если адрес не указан, принимаются соединения с любых адресов.
+2020-12-14 00:34:39,445 DEBUG server.py Вызвана функция main с параметрами ((), {}). Из модуля __main__
+2020-12-14 00:35:03,160 DEBUG server.py Вызвана функция config_load с параметрами ((), {}). Из модуля __main__
+2020-12-14 00:35:03,163 DEBUG server.py Аргументы успешно загружены.
+2020-12-14 00:35:03,163 DEBUG server.py Вызвана функция argument_parser с параметрами (('7777', ''), {}). Из модуля __main__
+2020-12-14 00:35:03,411 INFO center.py Запущен сервер, порт для подключений: , адрес с которого принимаются подключения: 7777. Если адрес не указан, принимаются соединения с любых адресов.
+2020-12-14 00:35:07,140 DEBUG server.py Вызвана функция main с параметрами ((), {}). Из модуля __main__
+2020-12-14 00:38:42,191 DEBUG server.py Вызвана функция config_load с параметрами ((), {}). Из модуля __main__
+2020-12-14 00:38:42,192 DEBUG server.py Аргументы успешно загружены.
+2020-12-14 00:38:42,192 DEBUG server.py Вызвана функция argument_parser с параметрами (('7777', ''), {}). Из модуля __main__
+2020-12-14 00:38:42,545 INFO center.py Запущен сервер, порт для подключений: , адрес с которого принимаются подключения: 7777. Если адрес не указан, принимаются соединения с любых адресов.
+2020-12-14 00:47:34,603 DEBUG server.py Вызвана функция config_load с параметрами ((), {}). Из модуля __main__
+2020-12-14 00:47:34,604 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['D:/Projects/PyQT_DB/lesson_6/hw6_Morev_Alexey/server.py']
+2020-12-14 00:47:34,605 DEBUG server.py Аргументы успешно загружены.
+2020-12-14 00:47:34,605 DEBUG server.py Вызвана функция argument_parser с параметрами (('7777', ''), {}). Из модуля __main__
+2020-12-14 00:47:34,823 INFO center.py Запущен сервер, порт для подключений: , адрес с которого принимаются подключения: 7777. Если адрес не указан, принимаются соединения с любых адресов.
+2020-12-14 00:47:50,029 DEBUG server.py Вызвана функция main с параметрами ((), {}). Из модуля __main__
+2020-12-14 00:57:03,644 DEBUG server.py Вызвана функция config_load с параметрами ((), {}). Из модуля __main__
+2020-12-14 00:57:03,645 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['D:/Projects/PyQT_DB/lesson_6/hw6_Morev_Alexey/server.py']
+2020-12-14 00:57:03,646 DEBUG server.py Аргументы успешно загружены.
+2020-12-14 00:57:03,646 DEBUG server.py Вызвана функция argument_parser с параметрами (('7777', ''), {}). Из модуля __main__
+2020-12-14 00:57:04,174 INFO center.py Запущен сервер, порт для подключений: , адрес с которого принимаются подключения: 7777. Если адрес не указан, принимаются соединения с любых адресов.
+2020-12-14 00:57:21,899 DEBUG server.py Вызвана функция main с параметрами ((), {}). Из модуля __main__
+2020-12-14 01:29:49,055 DEBUG server.py Вызвана функция config_load с параметрами ((), {}). Из модуля __main__
+2020-12-14 01:39:19,933 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['D:/Projects/PyQT_DB/lesson_6/hw6_Morev_Alexey/server.py']
+2020-12-14 01:45:38,278 DEBUG server.py Аргументы успешно загружены.
+2020-12-14 01:46:09,060 DEBUG server.py Вызвана функция argument_parser с параметрами (('7777', ''), {}). Из модуля __main__
+2020-12-14 02:01:06,229 INFO center.py Запущен сервер, порт для подключений: , адрес с которого принимаются подключения: 7777. Если адрес не указан, принимаются соединения с любых адресов.
+2020-12-14 02:05:57,067 DEBUG server.py Вызвана функция config_load с параметрами ((), {}). Из модуля __main__
+2020-12-14 02:06:21,367 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['D:/Projects/PyQT_DB/lesson_6/hw6_Morev_Alexey/server.py']
+2020-12-14 02:06:52,744 DEBUG server.py Аргументы успешно загружены.
+2020-12-14 02:07:00,995 DEBUG server.py Вызвана функция argument_parser с параметрами (('7777', ''), {}). Из модуля __main__
+2020-12-14 02:10:46,808 DEBUG server.py Вызвана функция config_load с параметрами ((), {}). Из модуля __main__
+2020-12-14 02:10:46,808 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['D:/Projects/PyQT_DB/lesson_6/hw6_Morev_Alexey/server.py']
+2020-12-14 02:10:46,809 DEBUG server.py Аргументы успешно загружены.
+2020-12-14 02:10:46,809 DEBUG server.py Вызвана функция argument_parser с параметрами (('7777', ''), {}). Из модуля __main__
+2020-12-14 02:10:47,038 INFO center.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2020-12-14 02:10:53,925 DEBUG server.py Вызвана функция main с параметрами ((), {}). Из модуля __main__
+2020-12-14 02:11:22,561 DEBUG server.py Вызвана функция config_load с параметрами ((), {}). Из модуля __main__
+2020-12-14 02:11:22,561 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['server.py']
+2020-12-14 02:11:22,562 DEBUG server.py Аргументы успешно загружены.
+2020-12-14 02:11:22,562 DEBUG server.py Вызвана функция argument_parser с параметрами (('7777', ''), {}). Из модуля __main__
+2020-12-14 02:11:22,762 INFO center.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2020-12-14 02:11:31,681 INFO center.py Установлено соедение с ПК ('127.0.0.1', 64869)
+2020-12-14 02:11:31,711 INFO center.py Установлено соедение с ПК ('127.0.0.1', 64870)
+2020-12-14 02:11:32,462 DEBUG center.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1607901091.7152572, 'user': {'account_name': 'user2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqS+yQHyV6HLT14ZE//2A\npU/MS1TYrKaH9mAUyGIzbqlDiUKy80Hx1fiPE2iRigzFJ4u65mayz2bJsDAlHt9a\nnaMeWYLCXsF6781+JaHfndUv7ix5LOmmMxISRg2s+/Amfr4xkxMLY8IG51Mdqb6W\nURhUvDginvL36u3fYC812oeNJE+Dk0/Ry8BHkbrkYtxtfvdwXC4w/VI95KlB+oXL\nHWwYbpZjHP9UKN+o5vTjgOkxddpbQIbhECyLZf4+WWq04co2bCn0YLV4vsAAOqBU\nN/OYD6hEio/0PNS20B4EvSHVyge9CLzOxQFS46R9+Zm90r2f/VGMJgEnAxKIlbqt\nAQIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-12-14 02:11:32,463 DEBUG center.py Start auth process for {'account_name': 'user2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqS+yQHyV6HLT14ZE//2A\npU/MS1TYrKaH9mAUyGIzbqlDiUKy80Hx1fiPE2iRigzFJ4u65mayz2bJsDAlHt9a\nnaMeWYLCXsF6781+JaHfndUv7ix5LOmmMxISRg2s+/Amfr4xkxMLY8IG51Mdqb6W\nURhUvDginvL36u3fYC812oeNJE+Dk0/Ry8BHkbrkYtxtfvdwXC4w/VI95KlB+oXL\nHWwYbpZjHP9UKN+o5vTjgOkxddpbQIbhECyLZf4+WWq04co2bCn0YLV4vsAAOqBU\nN/OYD6hEio/0PNS20B4EvSHVyge9CLzOxQFS46R9+Zm90r2f/VGMJgEnAxKIlbqt\nAQIDAQAB\n-----END PUBLIC KEY-----'}
